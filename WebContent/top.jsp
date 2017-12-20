@@ -14,7 +14,7 @@
 	<p><a href="#">ログインボタン</a></p>
 	<form>
 	<input type ="search" name="search" placeholder="検索テキスト">
-	<input type ="submit" name="検索"><br>
+	<input type ="submit" value="検索"><br>
 	</form>
 </div>
 <!-- サブコンテンツ -->
