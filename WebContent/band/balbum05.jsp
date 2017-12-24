@@ -32,10 +32,10 @@
 <p>本当に停止してもよろしいですか？</p>
 </div>
 
-<form>
+<form  action = "./balbum06.jsp" method = "get">
 <br><input type ="submit" value = "はい"><br>
 </form>
-<form>
+<form  action = "./balbum04.jsp" method = "get">
 <input type ="submit" value="戻る"><br>
 </form>
 

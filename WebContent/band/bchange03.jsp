@@ -20,6 +20,11 @@
 <p><!-- 受け取り -->様の情報変更が完了しました</p>
 
 </div>
+
+<form  action = "./btop01.jsp" method = "get">
+<input type ="submit" value="バンドTOPへ"><br>
+</form>
+
 </div>
 
 </body>

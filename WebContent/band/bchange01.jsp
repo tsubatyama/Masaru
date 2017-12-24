@@ -114,10 +114,10 @@
 	
 </div>
 
-	<form>
+	<form  action = "./bchange02.jsp" method = "get">
 	<input type ="submit" value = "変更"><br>
 	</form>
-	<form>
+	<form  action = "./bstop01.jsp" method = "get">
 	<input type ="submit" value="退会"><br>
 	</form>
 

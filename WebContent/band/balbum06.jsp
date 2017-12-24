@@ -21,7 +21,7 @@
 
 </div>
 
-<form>
+<form  action = "./btop01.jsp" method = "get">
 <input type ="submit" value="バンドTOPへ"><br>
 </form>
 

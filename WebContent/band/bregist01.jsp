@@ -72,11 +72,11 @@
 	
 	</table>
 	</div>
-	<form>
+	<form  action = "./regist02.jsp" method = "get">
 	<input type ="submit" value = "登録"><br>
 	</form>
-	<form>
-	<input type ="submit" value="戻る"><br>
+	<form  action = "./btop01.jsp" method = "get">
+	<input type ="submit" value="バンドトップへ"><br>
 	</form>
 	
 </div>

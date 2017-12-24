@@ -60,10 +60,10 @@
 </table>
 </div>
 
-<form>
+<form  action = "./bchange03.jsp" method = "get">
 <input type ="submit" value = "確認"><br>
 </form>
-<form>
+<form  action = "./bchange01.jsp" method = "get">
 <input type ="submit" value="戻る"><br>
 </form>
 

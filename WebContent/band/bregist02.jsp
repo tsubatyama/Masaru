@@ -61,10 +61,10 @@
 	</table>
 	</div>
 	
-	<form>
+	<form  action = "./bregist03.jsp" method = "get">
 	<input type ="submit" value = "確認"><br>
 	</form>
-	<form>
+	<form  action = "./bregist01.jsp" method = "get">
 	<input type ="submit" value="戻る"><br>
 	</form>
 </div>

@@ -19,7 +19,7 @@
 <div id = "main">
 <p><!-- 受け取り -->様登録が完了しました</p>
 </div>
-<form>
+<form  action = "./btop01.jsp" method = "get">
 <input type ="submit" value = "バンドTOPへ"><br>
 </form>
 

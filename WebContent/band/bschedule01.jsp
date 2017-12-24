@@ -97,8 +97,8 @@
 
 </div>
 
-<form>
-<input type ="submit" value="戻る"><br>
+<form  action = "./btop01.jsp" method = "get">
+<input type ="submit" value = "バンドTOPへ"><br>
 </form>
 
 </div>
