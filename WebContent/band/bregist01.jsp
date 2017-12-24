@@ -16,7 +16,7 @@
 </div>
 
 <!-- メイン -->
-<!-- ログイン -->
+<div id = "main">
 	<table>
 	<tr>
 	<td>ID</td>
@@ -71,6 +71,7 @@
 	</tr>
 	
 	</table>
+	</div>
 	<form>
 	<input type ="submit" value = "登録"><br>
 	</form>

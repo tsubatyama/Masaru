@@ -16,8 +16,9 @@
 </div>
 
 <!-- メイン -->
-<p><!-- 受け取り -->さん登録が完了しました</p>
-
+<div id = "main">
+<p><!-- 受け取り -->様登録が完了しました</p>
+</div>
 <form>
 <input type ="submit" value = "バンドTOPへ"><br>
 </form>

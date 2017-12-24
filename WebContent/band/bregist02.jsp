@@ -16,6 +16,7 @@
 </div>
 
 <!-- メイン -->
+<div id = "main">
 <table>
 	<tr>
 	<td>ID</td>
@@ -58,6 +59,7 @@
 	<td><!-- 受け取り --></td>
 	</tr>
 	</table>
+	</div>
 	
 	<form>
 	<input type ="submit" value = "確認"><br>
